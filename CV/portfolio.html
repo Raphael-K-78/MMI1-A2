@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+  <html lang="en">
+	<head> 
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<meta charset="utf-8">
+        <link rel="icon" type="image/png" href="image/profil.png">
+		
+		<title> CV Raphaël Kondratiuk </title>
+	</head> 
+	<body> 
+        <header>
+            <div id="img"></div>
+            <div>
+			<h1>Raphaël Kondratiuk</h1> 
+			<p>Prepared a B.A. in multimedia business and future web developer</p>
+			</div>
+			<hr>
+		</header>
+
+		<nav class="nav">
+			<ul> 
+				<li><a href="index.html">Profile</a></li>
+				<li><a href="video.html">Video</a></li>
+				<li><a href="career.html">Future Career</a></li>
+				<li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="form.html">Form</a></li>
+			</ul> 
+		 </nav>
+         <main id="portfolio">
+            <h2>Portfolio</h2>
+            <section class="project">
+                <h3>Labyrinth</h3>
+                <map name="labyrinth" id="labyrinth" >
+                    <area shape="circle" coords="643,328,17" href="../labyrinth" target="_blank" alt="sprite">
+                    <area shape="rect" coords="26,32,50,50" href="../labyrinth/images/sprite.gif" target="_blank" alt="sprite">
+                </map>
+                
+
+                <img  usemap="#labyrinth" src="image/labyrinth.gif" alt="game">
+                <p>This project is a small game created in JavaScript: the character moves with the arrows, when he touches the green candy the sprite becomes smaller and green to be able to pass into smaller areas. The blue circle is a portal that leads to level 2. To test the game, simply press the portal. To see the game sprite, press the character's original position</p>
+            </section>
+            <section class="project">
+                <h3>Video</h3>
+                <video  controls autoplay width="1280">
+                <source src="image/TP_eclairage.mp4" type="video/mp4">
+                </video>
+                <p>As part of an audiovisual assignment we took a video of a classmate on a green background then I made a montage where I incremented this student in an image given by the teacher</p>
+            </section>
+            <section class="project">
+                <h3>Web site</h3>
+                <img src="image/dauphin.gif" alt="dauphin">
+                <p>This project is a website that I created in high school, the project requested by the teacher was to create a website about an animal in html and css. The site had to have several images, a quiz coded in javascript, a table with data and the ability to move from one page to another.</p>
+            </section>
+         </main>
+         <footer>
+            <div id="validator">
+                <hr>
+                <h2>Website Certification</h2>
+                <img src="http://jigsaw.w3.org/css-validator/images/vcss" alt="CSS Valide !" >
+                <img src="image/html-validator.png" alt="HTML Valide !">
+            </div>
+            <div id="file">
+                <hr>
+				<article>
+                	<h2>File</h2>
+                	<ul>
+						<li><a href="ENGLISH_CV_RAPHAEL_KONDRATIUK.pdf">C.V.</a></li>
+                    	<li><a href="website.zip">website</a></li>
+                	</ul>
+				</article>
+            </div>
+            <div id="webpage">
+                <hr>
+				<article>
+				<h2>Web Page</h2>
+                <ul>
+                    <li><a href="index.html">Profile</a></li> 
+				    <li><a href="career.html">Future Career</a></li> 
+				    <li><a href="video.html">Video</a></li> 
+				    <li><a href="portfolio.html">Portfolio</a></li>
+				    <li><a href="form.html">Form</a></li>
+                </ul>
+				</article>
+            </div>
+            <p>don't hesitate to hover your mouse over all the images on the website!</p>
+        </footer>
+      </body>
+</html>

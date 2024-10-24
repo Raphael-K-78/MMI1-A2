@@ -1,0 +1,552 @@
+@import url('https://fonts.cdnfonts.com/css/montserrat');
+body{
+    min-height: 100%;
+    font-family:"Montserrat", sans-serif;
+    margin: 0;
+    font-size: 1.65em;
+}
+
+/* header */
+header{
+    color: white;
+    padding: 1%;
+    background: linear-gradient(-90deg, #5de0e6, #004aad ) ;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; /*si l'élément est trop grand pour tenir sur une ligne il passeront à une autre ligne*/
+    align-items: center; /* permet d'aligner les élément le long de l'axe secondaire*/
+    justify-content: space-around; /* permet d'aligner les éléments de façon différente*/
+    justify-items: stretch; /* défini la façàn dont une boite est aligné sur l'axe en ligne (valeur par défault pour justify-self*/
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+/* Navigation */
+hr{
+    height: 3px ;
+    width: 90%;
+    border-radius: 5px;
+    background: linear-gradient(90deg,black,white);
+}
+
+#img{
+    box-sizing: content-box;/*définit la façon comment  est calculé la height et width d'une élément*/
+    background-image: url("image/profil.png");
+    background-size: 300px 300px;
+    width:300px;
+    height: 300px;
+    border-radius: 150px;
+    align-self: auto;/* aligne un élément le long de l'axe secondaire*/
+    transition: transform 5s ease;
+}
+
+#img:hover{
+    transform:rotate(360deg);
+
+}
+
+nav {
+    /* 
+    position: sticky;
+    top:0; */
+    padding-top: 0;
+    margin-top: 0;
+    background: linear-gradient(-90deg, #5de0e6, #004aad);
+}
+nav ul{
+    display: flex;
+    flex-direction: row;
+}
+
+.nav ul {
+    
+    margin-top: 0px;
+    border-collapse: collapse;
+    justify-content: center;
+    flex-wrap: nowrap;
+    list-style-type: none;
+}
+
+.nav li {
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 5%;
+    padding-left: 5%;
+    overflow: hidden;
+    position: relative;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    position: relative;
+}
+
+.nav a:hover {
+    color: black;
+}
+
+.nav a::before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 2px; /* Hauteur de la ligne de soulignement */
+    background: linear-gradient(to right, black, white); /* Dégradé noir-blanc */
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.3s;
+}
+
+.nav a:hover::before {
+    transform: scaleX(1);
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+    /* font-size: 1.1em; */
+}
+
+a:hover{
+    color: black;
+}
+/* CV */
+main{
+    padding:1%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-items: stretch;
+    flex-basis: 45%;
+    justify-content: space-around;
+}
+
+main h2{
+    background: linear-gradient(-90deg, #5de0e6, #004aad ) ;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    width:100%;
+    padding: 0.5%;
+}
+
+#profil h2, #contact h2{
+    text-align: center;
+    width: 100%;
+}
+
+#contact,#profil{
+    width: 45%;
+    padding-left: 2%;
+    padding-right: 2%;
+    /* justify-self:stretch;définit la façon dont une boîte est alignée sur l'axe en ligne du conteneur */
+}
+
+#contact a{
+    justify-items: center;
+    color: black;
+    text-decoration:none ;
+}
+
+.emoji{
+    width: 1em;
+    height: 1em;
+    filter:grayscale(0);
+    transition: 2s ease-in-out;
+}
+
+#skills img{
+    filter: blur(0);
+    transition: all 3s;
+    animation: none;
+    align-self: center;
+}
+
+#skills img:hover{
+    filter: blur(7px);
+}
+
+#skills ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#skills li::before{
+    background: none;
+    margin: 0;
+    display: none;
+
+}
+
+#skills li {
+    text-align: center;
+    list-style-type: none;
+    margin-bottom: 20px;
+    width: 45%; 
+    box-sizing: border-box;
+}
+
+
+#skills img {
+    width: 10%; 
+    height: auto;
+}
+
+.emoji:hover{
+    filter: grayscale(100%);
+    opacity: 1;
+    animation: flash 2s;
+}
+
+#skills{
+    width: 100%;
+}
+
+#formation, #experience{
+    flex-basis: 100%; /*détermine la base de flexibilité utilisé comme taille initiale principale pour un élément flexible elle détermine la taille sauf si une autre boite est visé par box sizing*/
+    width: 100%;
+    flex-shrink: 1; /*définit le facteur de rétrécissement d'un élément flexible */
+    flex-grow: 1;/*définit le facteur d'expension d'un élément flexible*/
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#formation h2, #experience h2,#fontend, #backend, #fullstack{
+    width: 100%;
+}
+
+#formation article, #experience article,#fontend, #backend,#fullstack{
+    padding-right: 2%;
+    padding-left: 2%;
+}
+
+img{
+    width: 100%;
+    border-radius: 5%;
+    /* animation: fadeIn 3s ease forwards; */
+}
+
+img:hover{
+    /* transform: scale(0.85); */
+    animation: pulse-animation 5s infinite ;
+}
+
+main ul {
+    list-style: none;
+    padding: 0;
+    margin-left: 3%;
+}
+
+main  li{
+    margin: 10px 0;
+    padding-left: 20px;
+    list-style-type: none;
+}
+
+/* Style pour les puces en dégradé */
+main li::before {
+    content: "";
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 2%;
+    background: linear-gradient(-90deg, #5de0e6, #004aad ) ;
+}
+
+.school {
+    font-weight: bold;
+    display: inline;
+    background-repeat: repeat;
+    background-size: 100% 3px; /* Ajustez la hauteur de l'underline ici */
+    background-position: 0 100%; /* Positionnez l'underline en bas */
+    text-decoration: none;
+    /* -webkit-background-clip: text; Pour la compatibilité avec certains navigateurs Webkit */
+    /* background-clip: text; */
+}
+
+/* portfolio */
+#portfolio{
+    display: block;
+}
+
+.project{
+    display: block;
+    text-align: center;
+}
+
+.project img, #project img:hover{
+    transition: none;
+    animation: none;
+    transform: none;
+    width: 720px;
+}
+
+.project h3{
+    text-align: center;
+}
+
+/* video */
+iframe{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100vw;
+    height: 60vw;
+}
+
+video{
+    width: 100%;
+}
+
+/* formulaire */
+#form{
+    min-height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#form p{
+    width: 70%;
+}
+
+#error{
+    width: 100%;
+    color: red;
+    text-align: center;
+}
+
+#formulaire p{
+    max-width: 100%;
+    word-break: break-all;
+
+}
+
+form{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+input {
+    height: 2em;
+    font-size: 1em;
+    padding: 5px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+input[type=submit] {
+    padding: 1%;
+    height: 2em;
+    font-size: 1em;
+    background: linear-gradient(-90deg, #5de0e6, #004aad );
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+input[type=submit]:hover {
+    background: linear-gradient(-90deg, #5de0e6, #004aad );
+    opacity: 0.5;
+}
+
+[contenteditable=true]:empty:before {
+    pointer-events: none;
+    display: block;
+    color: #aaa;
+}
+
+#opinion {
+    width: 100%;
+    height: 300px;
+    overflow-y: scroll;
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 10px 0;
+    border-radius: 3px;
+}
+
+/* Ajout d'un style de survol pour les champs d'entrée */
+input:hover, input:focus {
+    border-color: #007BFF;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+/* footer */
+footer{
+    padding: 1%;
+    background: linear-gradient(-90deg, #5de0e6, #004aad ) ;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+footer h2{
+    background: none;
+    font-size:0.75em;
+    color: white;
+    text-decoration: none;
+
+}
+
+
+footer img, footer img:hover{
+    transition: none;
+    transform: none;
+    animation: none;
+    width: 30%;
+    
+}
+footer section, footer div{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+#file{
+    align-items:  center;
+}
+
+footer ul{
+    padding: 0;
+    list-style-type: none;
+    flex-direction: column;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover{
+    color: black;
+}
+
+footer p{
+    color:white;
+    text-transform: capitalize;
+    font-style: italic;
+}
+
+/* responsive */
+@media(max-width:1044px) {
+    footer div{
+        width: 100%;
+    }
+    #contact,#profil,#skills li{
+        width: 100%;
+    }
+    #skills li{
+        justify-content: flex-start;
+    }
+    #skills img{
+        width: 20%;
+    }
+    form{
+        width: 90%;
+        display: block;
+    }
+
+    #validator, #webpage{
+        align-items: center;
+    }
+    footer{
+        flex-direction: column;
+        justify-content: flex-start;
+        display:block;
+    }
+}
+@media(min-width:1045px){
+    footer section, footer div{
+        width: 30%;
+    }
+    #contact,#profil{
+        width: 45%;
+    }
+    form{
+        width: 60%;
+    }
+    #validator, footer section{
+        width:30%;
+    }
+    #validator{
+        align-items:  flex-start;
+    }
+    #webpage{
+        align-items:  flex-end;
+    }
+    footer{
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    footer hr{
+        /* visibility: hidden; */
+        display: none;
+    }
+}
+
+
+@media(max-width:1490px){
+    #formation article, #experience article,#fontend,#backend,#fullstack{
+        width: 100%;
+    }
+}
+@media(min-width:1491px){
+    #formation article, #experience article,#fontend,#backend,#fullstack{
+        width: 45%;
+    }
+}
+
+
+/*animation */
+@keyframes pulse-animation{
+    0%{
+        opacity: 1;
+        transform: scale(1);
+    }
+    50%{
+        opacity: 0.3;
+        transform: scale(0.90);
+
+    }
+    100%{
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+@keyframes spin{
+    0%{
+        transform: rotate(0deg);
+    }
+
+    100%{
+        transform: rotate(360deg);
+    }
+    
+}
+
+@keyframes flash {
+    0%{
+        opacity: 0.4;
+    }
+    100%{
+        opacity: 1;
+    }
+    
+}
