@@ -1,0 +1,124 @@
+ /* Style pour le conteneur du slider */
+        .car-slider {
+            position: relative;
+            width: 80%;
+            max-width: 1200px;
+            margin: 50px auto;
+            overflow: hidden;
+        }
+
+        /* Style pour les slides */
+        .car-slides {
+            display: flex;
+            transition: transform 0.5s ease-in-out;
+        }
+
+        /* Style pour chaque slide */
+        .car-slide {
+            min-width: 33.3333%; /* Afficher trois slides en même temps */
+            box-sizing: border-box;
+            padding: 10px;
+            transition: transform 0.5s ease;
+            border-radius: 10px; /* Ajout du border-radius */
+        }
+
+        .car-slide img {
+            width: 100%;
+            object-fit: cover;
+            border-bottom: 2px solid #333;
+            border-radius: 2%;
+            aspect-ratio: 16 / 9;
+         }
+
+        .car-info {
+            padding: 20px;
+            background: #fff;
+            text-align: center;
+            box-shadow: 0 0px 10px rgba(0, 0, 0, 0.3);
+            border-radius: 2%;
+        }
+
+        .car-info h3 {
+            margin: 10px 0;
+            font-size: 24px;
+            color: #333;
+        }
+
+        .car-info p {
+            margin: 5px 0;
+            font-size: 18px;
+            color: #666;
+        }
+
+        /* Style pour les flèches de navigation */
+        .arrows {
+            position: absolute;
+            top: 50%;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            transform: translateY(-50%);
+            pointer-events: none;
+        }
+
+        .arrows span {
+            pointer-events: all;
+            font-size: 30px;
+            padding: 10px;
+            cursor: pointer;
+            user-select: none;
+            transition: color 0.3;
+        }
+
+        .arrows span:hover {
+            color:white;
+        }
+h1.text  {
+            font-size: 32px;
+            color: #333;
+            text-align: center;
+        }
+ h1.text, h2.text{
+margin-top:3vh;
+margin-bottom: 3vh;
+}
+        p.text {
+            font-size: 18px;
+            color: #666;
+            line-height: 1.5;
+	    margin-right:auto;
+            margin-left:auto;
+	    width:80vw;
+        }
+
+         h2.text {
+            font-size: 24px;
+            color: #333;
+            text-align: center;
+        }
+.reservation-form {
+    text-align: center;
+    margin: 20px auto;
+}
+
+.reservation-button {
+    background-color: #007bff;
+    color: white;
+    font-size: 20px;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.reservation-button:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
+
+.reservation-button:active {
+    background-color: #003d80;
+    transform: scale(1);
+}

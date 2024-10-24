@@ -1,0 +1,32 @@
+User-agent: *
+Disallow: /
+
+# Bloque les répertoires communs
+Disallow: /images/
+Disallow: /css/
+Disallow: /js/
+Disallow: /docs/
+
+# Bloque les types de fichiers spécifiques
+Disallow: /*.html$
+Disallow: /*.php$
+Disallow: /*.jpg$
+Disallow: /*.jpeg$
+Disallow: /*.png$
+Disallow: /*.gif$
+Disallow: /*.bmp$
+Disallow: /*.webp$
+Disallow: /*.svg$
+Disallow: /*.css$
+Disallow: /*.js$
+Disallow: /*.json$
+Disallow: /*.xml$
+Disallow: /*.pdf$
+Disallow: /*.doc$
+Disallow: /*.docx$
+Disallow: /*.ppt$
+Disallow: /*.pptx$
+Disallow: /*.xls$
+Disallow: /*.xlsx$
+Disallow: /*.zip$
+Disallow: /*.rar$
