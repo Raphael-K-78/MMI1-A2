@@ -59,20 +59,6 @@ CREATE TABLE `Client` (
 -- Déchargement des données de la table `Client`
 --
 
-INSERT INTO `Client` (`id_cl`, `nom`, `prenom`, `Email`, `Adresse`, `password`) VALUES
-(1, 'Louis', 'Louis', 'jeanlouis@mail.com', '13 rue de paris', 'motdepasse'),
-(2, 'Lecompte', 'Luck', 'fauxmail@mail.com', '13 rue anonyme  Paris', 'password'),
-(3, 'test', 'test', 'test@test.test', '13 rue test test', 'test'),
-(4, 'Jean', 'David', 'jd@jd.fr', '1 rue du jd', 'jdjd'),
-(5, 'toi', 'toi', 'toi@toi.toi', 'toi rue toi toi', 'toi'),
-(6, 'ee', 'ee', 'e@e.e', 'e rue e', 'e'),
-(7, 'depart', 'lina', 'departlina@gmail.com', '15 rue du castel', 'departhadjeb'),
-(10, 'dede', 'dede', 'dede@gmail.com', 'dede', 'dede1'),
-(11, '1', '1', '1@1.1', '1 rue 1', '1'),
-(12, 'moi', 'moi', 'moi@moi.moi', 'moi rue moi', 'moi'),
-(13, 'Smith', 'Barry', 'b.smith@smith.nets', '1 RUE SMITH A BARRY VILLE', '123'),
-(14, 'De carvalho', 'Tony', 'tonydecarvalho04@gmail.com', 'Rue Josianne balascauld 45', 'Tony'),
-(15, 'oli', 'oli', 'oli@oli.fr', 'oli', 'oli');
 
 -- --------------------------------------------------------
 
