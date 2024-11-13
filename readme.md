@@ -15,7 +15,7 @@ Ce dépôt regroupe les différents projets de programmation réalisés pendant 
 
 ## Projets
 
-Voici quelques exemples de projets présents dans ce dépôt :
+Voici la liste des projets présents dans ce dépôt :
 
 1. **[Projet CV](https://github.com/Raphael-K-78/MMI1-A2/tree/main/CV)** - Création d'un site web statique pour découvrir les bases de la conception web.
 2. **[Projet Jeu JavaScript](https://github.com/Raphael-K-78/MMI1-A2/tree/main/catsrun)** - Création d'un jeu pour pratiquer le JavaScript.
