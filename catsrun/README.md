@@ -23,6 +23,10 @@ Le jeu comprend 3 sons différents :
 - **"Miaulement"**: Un son pour prévenir quand on a attrapé un oiseau.
 - **"Game Over"**: Un son pour indiquer que la partie est perdue.
 
+## Technologies
+
+- **HTML/CSS**
+- **JavaScript**
 
 ## Créateur
 
