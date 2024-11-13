@@ -30,8 +30,8 @@ Pour chaque projet, vous trouverez une description complète et un fichier READM
 - **HTML/CSS**
 - **JavaScript**
 - **PHP**
-- **MySQL**
-- 
+- **SQL**
+
 ## Organisation
 
 Les projets sont organisés par dossier, avec une structure de fichiers propre à chaque projet pour faciliter la navigation et la compréhension du code.
