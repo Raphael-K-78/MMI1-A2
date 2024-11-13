@@ -6,6 +6,12 @@ Le projet Sommeil est un TP en PHP conçu pour pratiquer les bases de la program
 
 - [@Raphaël Kondratiuk](https://github.com/Raphael-K-78/)
 
+## Technologies
+
+- **HTML/CSS**
+- **JavaScript**
+- **PHP**
+- **SQL**
 
 ## Demo
 [lien du site](http://sommeil.raphael.kondratiuk.mmi-velizy.fr/)
