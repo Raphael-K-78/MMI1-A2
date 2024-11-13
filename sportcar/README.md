@@ -7,6 +7,12 @@ Le projet SportCar est un site web de location de voitures offrant une expérien
 
 - [@Raphaël Kondratiuk](https://github.com/Raphael-K-78/)
 
+## Technologies
+
+- **HTML/CSS**
+- **JavaScript**
+- **PHP**
+- **SQL**
 
 ## Demo
 [lien du site](http://sportcar.raphael.kondratiuk.mmi-velizy.fr/)
