@@ -7,6 +7,9 @@ Ce projet de site web CV est l'un de mes premiers travaux en intégration web, r
 
 - [@Raphaël Kondratiuk](https://github.com/Raphael-K-78/)
 
+## Technologies
+
+- **HTML/CSS**
 
 ## Demo
 [lien du site](http://cv.raphael.kondratiuk.mmi-velizy.fr/)
