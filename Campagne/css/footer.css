@@ -1,0 +1,75 @@
+@keyframes rs{
+	0%{
+	filter:invert(1);
+	-ms-transform: scale(1); /* IE 9 */
+	-webkit-transform: scale(1); /* Safari 3-8 */
+	transform: scale(1);
+}
+	50%{
+	filter:invert(0.75);
+	-ms-transform: scale(1.2); /* IE 9 */
+	-webkit-transform: scale(1.2); /* Safari 3-8 */
+	transform: scale(1.2);
+}
+	100%{
+	filter:invert(1);
+	-ms-transform: scale(1); /* IE 9 */
+	-webkit-transform: scale(1); /* Safari 3-8 */
+	transform: scale(1);
+}
+}
+
+:root {
+    --red-color: #5D2025;
+    --info-color: #439DE4;
+    --warning-color:#FFB20F;
+    --success-color: #83D520;
+    --danger-color:#D00000;
+    --nav-font: "LeagueSpartan";
+    --h-font: "SadanSC";
+    --yellow-color: #CBAB2E;
+    --green-color: #052410;
+}
+
+footer{
+	box-sizing: border-box;
+	padding-top: 1em;
+	background-color: var(--red-color);
+	width:100vw;
+	height:20vh;
+	position:relative;
+}
+
+.rs {
+    margin-top:1.5em;
+    gap:1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.rs img {
+    width: 60px;
+    height: auto;
+    filter: invert(1);
+}
+
+.rs img:hover{
+	animation-duration: 5s;
+  	animation-name: rs;
+	animation-iteration-count: infinite;
+
+}
+
+footer a, footer a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+footer p{
+	text-align:center;
+}
+
+#X{
+box-sizing:border-box;
+padding:10px;

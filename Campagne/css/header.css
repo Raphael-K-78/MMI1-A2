@@ -1,0 +1,181 @@
+@font-face {
+    font-family: "LeagueSpartan";
+    src:
+        local("LeagueSpartan"),
+        url("../font/LeagueSpartan/static/LeagueSpartan-Medium.ttf");
+}
+
+:root {
+    --red-color: #5D2025;
+    --info-color: #439DE4;
+    --warning-color:#FFB20F;
+    --success-color: #83D520;
+    --danger-color:#D00000;
+    --nav-font: "LeagueSpartan";
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+header {
+    height: 93vh;
+    background-image: url(../media/fond_site.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    background-attachment: local;
+}
+
+nav {
+    font-size: 1.5em;
+    font-family: "LeagueSpartan", sans-serif;
+    height: 7vh;
+    background-color: var(--red-color);
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    justify-content: space-between;
+    padding: 0 1em;
+    z-index:10;
+}
+
+nav ul {
+    align-content: center;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+
+nav li {
+    display: flex;
+    align-items: center;
+}
+
+nav a:link, nav a:visited, nav a:hover, nav a:active {
+    color: white;
+    text-decoration: none;
+    position: relative;
+    padding-bottom: 5px;
+}
+
+nav a::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    border-radius: 2.5px;
+    background-color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transition: width 0.3s;
+}
+
+nav a:hover::after {
+    width: 100%;
+}
+
+nav form {
+    margin: 0;
+}
+
+nav .login button {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 1em;
+    font-family: "LeagueSpartan", sans-serif;
+    cursor: pointer;
+    padding-bottom: 5px;
+    position: relative;
+}
+nav .login button:hover {
+	box-shadow:none;
+}
+
+nav .login button::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    border-radius: 2.5px;
+    background-color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transition: width 0.3s;
+}
+
+nav .login button:hover::after {
+    width: 100%;
+}
+
+.login button:hover{
+	    filter: brightness(1);
+}
+
+nav .login button i {
+    margin-right: 5px;
+}
+
+.hamburger {
+    display: none;
+    cursor: pointer;
+    color: white;
+    font-size: 1.5em;
+}
+.hamburger::before{
+	display:none;
+}
+@media screen and (max-width: 768px) {
+    nav ul {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    nav {
+	display:flex;
+    }
+
+    .show {
+        display:block;
+	position:fixed;
+	height:100vh;
+	width:100vw;
+	left:0;
+    }
+
+    .show i{
+	margin:1vw;
+}
+
+.show ul{
+	display:block;
+}
+
+
+.hamburger {
+    display: block;
+}
+.hamburger::before{
+	display:block;
+}
+header{
+	background-image: url(../media/fond_site_phone.png);
+}
+}

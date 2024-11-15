@@ -1,0 +1,175 @@
+#agence-sinai{
+	display:flex;
+	flex-direction:column;
+	padding-left:10vw;
+	width:90vw;
+	box-sizing: content-box;
+}
+
+#qui-somme-nous{
+	display:flex;
+	flex-direction:row;
+	flex-direction: space-between;
+	padding-right: 5vw;
+}
+main{
+	position: relative;
+}
+
+#qui-somme-nous div{
+	width:45vw;
+
+}
+
+#agence-sinai div{
+	width:70vw
+}
+
+.deco{
+	position:relative;
+	z-index:-1;
+}
+
+#deco1{
+	width:40vw;
+	height:40vw;
+	right:-60vw;
+	bottom:20vh;
+}
+
+#deco2{
+	/* width:20vw; */
+	height:auto;
+	left:-5vw;
+	flex-grow:2;
+}
+
+footer,section{
+	position:relative;
+	overflow-x:hidden;
+}
+
+footer h2,section h2{
+	z-index:1;
+	margin-top: 1.8em;
+	font-size:5em;
+}
+
+footer p,section p{
+	z-index:1;
+	font-size: 2em;
+}
+
+#qui-somme-nous h2{
+	position:relative;
+	left:-5vw;
+}
+
+#partenaires h2{
+	margin-left: 5vw;
+}
+
+.logo-slider {
+	width: 100%;
+	overflow: hidden;
+	background: #333;
+  }
+  
+  .logo-track {
+	display: flex;
+	animation: scroll 60s linear infinite;
+	justify-items: center;
+	align-items: center;
+  }
+  
+  .logo {
+	flex: 0 0 auto;
+	width: 20em; 
+	padding: 10px;
+	box-sizing: border-box;
+  }
+  
+  .logo img {
+	width: 100%;
+	height: auto;
+  }
+  
+  @keyframes scroll {
+	0% {
+	  transform: translateX(0);
+	}
+	100% {
+	  transform: translateX(-50%);
+	}
+  }
+  
+footer,section:not(:first-of-type) {
+	bottom: 20vh;
+}
+
+#footerdiv{
+	display: flex;
+	justify-content: space-around;
+	flex-direction: row;
+	align-items: center;
+}
+
+#contact li:nth-child(1){
+	list-style-image: url("../media/mail.png");
+}
+#contact li:nth-child(2){
+	list-style-image: url("../media/phone.png");
+}
+#contact li:nth-child(3){
+	list-style-image: url("../media/loca.png");
+}
+
+#contact{
+	width: 40vw;
+	display: block;
+	padding-left: 3em;
+	list-style-position : outside;
+	display : inline-block;
+	margin :auto;
+	text-align:left;
+}
+
+footer img{
+	width: 40vw;
+	height: auto;
+}
+
+footer h2{
+	margin-left: 5vw;
+}
+
+footer a:link, footer a:visited, footer a:hover, footer a:active {
+	color: white;
+	text-decoration: none;
+	position: relative;
+	padding-bottom: 5px;
+}
+
+
+#projet {
+    display: flex;
+	justify-content: space-around;
+}
+
+#projet img{
+	width: 20vw;
+	height: auto;
+}
+
+#nos-projets h2{
+	margin-left: 5vw;
+}
+
+#qui-somme-nous img{
+	width: 45vw;
+	height: auto;
+}
+
+main img{
+	border-radius: 5%;
+}

@@ -1,0 +1,546 @@
+@font-face {
+    font-family: "SedanSC";
+    src: local("SedanSC"), url("../font/SedanSC/SedanSC-Regular.ttf");
+}
+
+:root {
+    --red-color: #5D2025;
+    --info-color: #439DE4;
+    --warning-color: #FFB20F;
+    --success-color: #83D520;
+    --danger-color: #D00000;
+    --nav-font: "LeagueSpartan";
+    --h-font: "SedanSC";
+    --yellow-color: #CBAB2E;
+    --green-color: #052410;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+.section-1 {
+    padding: 2em;
+}
+
+.section-1 > div {
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    margin-right: 1em
+    width: 80vw;
+    margin-left: auto;
+    padding-bottom: 6em;
+    padding-top:3em;	
+}
+.section-1 .image-container2 {
+    flex:2;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+}
+
+.section-1 .image-container2 img {
+    max-width: 100vw;
+    width:600px;
+    height: auto;
+}
+.section-1 .image-container {
+}
+
+.section-1 .image-container img {
+    min-width: 300px;
+    height: auto;
+    width:20vw;
+}
+
+.section-1 .text-container {
+    width:40vw;
+}
+
+h1{
+    margin-top:4em;
+    font-family: "SedanSC", sans-serif;
+    font-size: 1.75em;
+    line-height: 1em;
+    /* margin: 1em; */
+    text-align: center;
+    text-transform: uppercase;
+}}
+
+div h2{
+font-family: 'SedanSC', sans-serif;
+    font-size: 1.5em;
+    line-height:1em;
+    margin: 1em;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: 'SedanSC', sans-serif;
+    font-size: 1.5em;
+    line-height:1em;
+    margin: 1em;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-family: "SedanSC", sans-serif;
+}
+
+.section-1 p {
+    margin: 1em;
+    line-height: 1.6;
+}
+
+.section-1 button{
+	margin:1em;
+}
+
+button {
+    background-color: var(--yellow-color); 
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline-block;
+    transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+button:hover {
+    background-color: var(--yellow-color);
+    box-shadow: 0 0 0 2px rgba(212, 175, 55, 0.5);
+}
+
+button:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(212, 175, 55, 0.5);
+}
+
+button a, button a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.section-2 {
+    background-color: var(--green-color);
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+.element {
+    flex: 1;
+    max-width: 250px;
+    margin: 0 10px;
+}
+
+.element h2 {
+    font-size: 6em;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    margin: 0;
+    line-height:10px;
+}
+
+.element:nth-child(2n) {
+    margin-top: 10em;
+}
+
+.section-3{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+	gap:2vw;
+	margin-top: 2em;
+	margin-BOTTOM: 2em;
+
+}
+
+.quizz{
+	color:white;
+	width:28vw;
+	min-width: 300px;
+	max-width:450px;
+	height:auto;
+	background-color: var(--green-color);
+	border-radius:16px;
+}
+
+.section-3 h2{
+	line-height:1em;
+	text-align:center;
+}
+.section-3 p{
+	margin-left:1em;
+	margin-right: 1em
+}
+
+.quizz_info{
+	display:flex;
+	justify-content: space-between;
+}
+
+.section-3 form{
+	display:flex;
+	justify-content:center;
+}
+
+.step{
+	display:flex;
+	justify-content:right;
+}
+
+.icon{
+font-family: 'SedanSC';
+    font-size: 3em;
+}
+
+.content{
+   width:70vw;
+   margin-bottom:8em;
+}
+
+.section-3 .content h2{
+line-height: 1.5em;
+}
+
+small{
+    margin-left: 2em;
+    line-height: 1.5em;
+}
+div.exemple{
+color:white;
+padding:1em;
+}
+.green {
+    background-color: var(--green-color);
+}
+
+.red{
+    background-color: var(--red-color);
+}
+
+.yellow {
+    background-color: var(--yellow-color);
+}
+
+.symbols{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-around;
+	align-items:stretch;
+	flex-wrap:wrap;
+}
+
+.symbols div{
+	display:flex;
+	flex-direction:column;
+	justify-content:space-between;
+	align-items:center;
+	min-width:125px;
+	max-width:300px;
+	    width: 15vw;
+	flex-wrap:nowrap;
+}
+
+.symbols img{
+    	min-width: 75px;
+	width:7vw;
+	height:auto;
+	filter:invert(1);
+}
+
+#recyclable{
+	margin-top:1.5em;
+}
+
+.symbols p{
+	padding-right: 1vw;
+	padding-left:1vw;
+	
+}
+
+
+.fa-check-circle:before {
+	color:var(--success-color);
+ }
+.fa-times-circle:before {
+	color:var(--danger-color);
+}
+.symbols #logorecyclable{
+    padding-top: 3em;
+}
+
+.important{
+font-size:1.25em;
+font-family:'SedanSC',sans-serif;
+margin-left:4em;
+margin-bottom:3em;
+padding-right:7vw;
+padding-left:7vw;
+}
+.option{
+align-items: center;
+display:flex;
+justify-content:center;
+}
+
+#question h2{
+	text-transform:none;
+}
+#question {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    text-align: center;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.option {
+    margin-bottom: 10px;
+}
+
+.option label {
+    margin-left: 5px;
+}
+
+.option i {
+    margin-right: 5px;
+}
+
+
+.option label{
+	display:block;
+	overflow-wrap:break-word;
+}
+.anime-container {
+    transition: width 3s;
+    width: 76px;
+    overflow-x: clip;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    background-color: #2e2e2e;
+    color: white;
+    /* width: 700px; */
+    height: 400px;
+    margin-bottom:20px;
+}
+
+#charlemagne{
+    background-image: url('../media/charlemagne.png') ;
+    color: black;
+}
+
+#degaule{
+    background-image: url('../media/degaule.png') ;
+    justify-content: space-between;
+    padding-right: 30px;
+    box-sizing: border-box;
+}
+
+#napoleon{
+    background-image: url('../media/napoleon.png') ;
+}
+
+#jeanneausecour{
+    background-image: url('../media/jeanneausecour.png') ;
+    justify-content: space-between;
+    padding-right: 30px;
+    box-sizing: border-box;
+}
+
+.side-text {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    text-align: center;
+    font-size: 1.5em;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Sedan SC', serif;
+    height: 400px;
+    cursor: url("pointer.webp"), pointer;
+}
+
+.side-text:hover{
+    background-color: black;
+}
+
+
+.main-content {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.text-content {
+    box-sizing: border-box;
+    padding: 10px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 16px;
+}
+
+.text-content h2 {
+    width: 250px;
+    text-align: center;
+    font-family: 'Sedan SC', serif;
+    font-size: 1.5em;
+}
+
+.text-content p {
+    font-size: 1em;
+    line-height: 1.5;
+    width: 250px;
+}
+
+#div_scroll{
+    overflow-x: auto;
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    margin: 20px;
+    justify-content: center;
+}
+
+.side-text :hover{
+    filter: contrast(120%);
+}
+
+.active-slide{
+    width: 700px !important;
+    transition: width 3s;
+}
+#main_quizz{
+padding-right:15vw;
+padding-left:15vw;
+}
+
+#resultat {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    text-align: center;
+    font-size: 1.2em;
+    color: #333;
+}
+
+#resultat p {
+    margin: 10px 0;
+    line-height: 1.6;
+}
+
+.user-info {
+    text-align: center;
+    background-color: #f5f5f5; /* Adjust according to your design */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: auto;
+}
+
+.user-info h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.user-info p {
+    font-size: 1.2em;
+    margin: 5px 0;
+}
+
+.profile-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 10px;
+}
+
+.profile-photo-container {
+    display: inline-block;
+    padding: 5px;
+    background-color: #e0e0e0;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.section-4{
+width:30vw;
+display:flex;
+align-items:center;
+justify-content:center;
+flex-direction:column;
+padding-bottom:2em;
+}
+
+.section-4 img{
+	width:25vw;
+	min-width:50px;
+	max-width:125px;
+}
+
+.vertical-hr {
+    margin-top: 1em;
+    background-color: black;
+    width: 0.5em;
+    border-radius: 1em;
+    height: 100%;
+}
+
+@media (max-width: 768px) {
+.revert > div{
+flex-direction:column-reverse !important;
+}
+    .section-1 > div {
+        flex-direction: column;
+    }
+
+    .section-1 .text-container {
+        padding-left: 0;
+    }
+.section-1 .text-container {
+    width:auto;
+}
+.section-1 .image-container {
+    width:auto;
+}
+    .section-2 {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .section-2 .element:nth-child(2n) {
+        margin-top: 0em;
+    }
+#main_quizz{
+padding-right:1vw;
+padding-left:1vw;
+}
+}
+
+
+
+.horizontal-img{
+    width: 30vw !important;
+
+}

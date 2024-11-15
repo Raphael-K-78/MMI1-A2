@@ -1,0 +1,312 @@
+[28-May-2024 10:51:25 UTC] PHP Warning:  include_once(../include/fonction_admin_connect.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/index.php on line 2
+[28-May-2024 10:51:25 UTC] PHP Warning:  include_once(): Failed opening '../include/fonction_admin_connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/index.php on line 2
+[28-May-2024 11:51:05 UTC] PHP Warning:  include_once(../include/fonction_admin_connect.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 2
+[28-May-2024 11:51:05 UTC] PHP Warning:  include_once(): Failed opening '../include/fonction_admin_connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 2
+[28-May-2024 11:51:05 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/header_admin.php on line 11
+[28-May-2024 11:51:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/header_admin.php on line 11
+[28-May-2024 11:51:05 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/header_admin.php on line 13
+[28-May-2024 11:51:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/header_admin.php on line 13
+[28-May-2024 11:51:05 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 18
+[28-May-2024 11:51:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 18
+[28-May-2024 11:51:11 UTC] PHP Warning:  include_once(../include/fonction_admin_connect.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 2
+[28-May-2024 11:51:11 UTC] PHP Warning:  include_once(): Failed opening '../include/fonction_admin_connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 2
+[28-May-2024 11:51:11 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/header_admin.php on line 11
+[28-May-2024 11:51:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/header_admin.php on line 11
+[28-May-2024 11:51:11 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/header_admin.php on line 13
+[28-May-2024 11:51:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/header_admin.php on line 13
+[28-May-2024 11:51:11 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 18
+[28-May-2024 11:51:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 18
+[28-May-2024 11:51:17 UTC] PHP Warning:  include_once(../include/fonction_admin_connect.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 2
+[28-May-2024 11:51:17 UTC] PHP Warning:  include_once(): Failed opening '../include/fonction_admin_connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 2
+[28-May-2024 11:51:17 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/header_admin.php on line 11
+[28-May-2024 11:51:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/header_admin.php on line 11
+[28-May-2024 11:51:17 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/header_admin.php on line 13
+[28-May-2024 11:51:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/header_admin.php on line 13
+[28-May-2024 11:51:17 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 18
+[28-May-2024 11:51:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 18
+[28-May-2024 11:51:28 UTC] PHP Warning:  include_once(../include/fonction_admin_connect.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 2
+[28-May-2024 11:51:28 UTC] PHP Warning:  include_once(): Failed opening '../include/fonction_admin_connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 2
+[28-May-2024 11:51:28 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/header_admin.php on line 11
+[28-May-2024 11:51:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/header_admin.php on line 11
+[28-May-2024 11:51:28 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/header_admin.php on line 13
+[28-May-2024 11:51:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/header_admin.php on line 13
+[28-May-2024 11:51:28 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 18
+[28-May-2024 11:51:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 18
+[28-May-2024 11:51:34 UTC] PHP Warning:  include_once(../include/fonction_admin_connect.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 2
+[28-May-2024 11:51:34 UTC] PHP Warning:  include_once(): Failed opening '../include/fonction_admin_connect.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 2
+[28-May-2024 11:51:34 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/header_admin.php on line 11
+[28-May-2024 11:51:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/header_admin.php on line 11
+[28-May-2024 11:51:34 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/header_admin.php on line 13
+[28-May-2024 11:51:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/header_admin.php on line 13
+[28-May-2024 11:51:34 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 18
+[28-May-2024 11:51:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 18
+[28-May-2024 11:53:28 UTC] PHP Warning:  include_once(../include/insert_post.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 61
+[28-May-2024 11:53:28 UTC] PHP Warning:  include_once(): Failed opening '../include/insert_post.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 61
+[28-May-2024 11:56:51 UTC] PHP Warning:  include_once(../include/insert_post.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 61
+[28-May-2024 11:56:51 UTC] PHP Warning:  include_once(): Failed opening '../include/insert_post.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 61
+[28-May-2024 11:56:57 UTC] PHP Warning:  include_once(../include/insert_post.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 61
+[28-May-2024 11:56:57 UTC] PHP Warning:  include_once(): Failed opening '../include/insert_post.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 61
+[28-May-2024 11:57:09 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 55
+[28-May-2024 11:57:56 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 55
+[28-May-2024 11:59:02 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 55
+[28-May-2024 11:59:06 UTC] PHP Warning:  include_once(../include/insert_post.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 61
+[28-May-2024 11:59:06 UTC] PHP Warning:  include_once(): Failed opening '../include/insert_post.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 61
+[28-May-2024 12:16:22 UTC] PHP Warning:  Undefined array key "id_voit" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 54
+[28-May-2024 12:16:22 UTC] PHP Warning:  Undefined array key "id_voit" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 54
+[28-May-2024 12:17:40 UTC] PHP Warning:  Undefined array key "id_voit" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 54
+[28-May-2024 12:17:40 UTC] PHP Warning:  Undefined array key "id_voit" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 54
+[28-May-2024 12:17:42 UTC] PHP Warning:  include_once(../include/modif_user_admin.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[28-May-2024 12:17:42 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_user_admin.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[28-May-2024 12:17:42 UTC] PHP Warning:  Undefined array key "id_voit" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 54
+[28-May-2024 12:17:42 UTC] PHP Warning:  Undefined array key "id_voit" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 54
+[28-May-2024 12:18:49 UTC] PHP Warning:  include_once(../include/modif_user_admin.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[28-May-2024 12:18:49 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_user_admin.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[28-May-2024 12:19:02 UTC] PHP Warning:  include_once(../include/modif_user_admin.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[28-May-2024 12:19:02 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_user_admin.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[28-May-2024 12:19:02 UTC] PHP Warning:  include_once(../include/modif_user_admin.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[28-May-2024 12:19:02 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_user_admin.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[28-May-2024 12:19:03 UTC] PHP Warning:  include_once(../include/modif_user_admin.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[28-May-2024 12:19:03 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_user_admin.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[28-May-2024 12:19:03 UTC] PHP Warning:  include_once(../include/modif_user_admin.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[28-May-2024 12:19:03 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_user_admin.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[28-May-2024 12:22:53 UTC] PHP Warning:  include_once(../include/modif_user_admin.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[28-May-2024 12:22:53 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_user_admin.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[28-May-2024 12:22:58 UTC] PHP Warning:  include_once(../include/modif_user_admin.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[28-May-2024 12:22:58 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_user_admin.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[28-May-2024 12:23:09 UTC] PHP Warning:  include_once(../include/modif_user_admin.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[28-May-2024 12:23:09 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_user_admin.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[30-May-2024 11:17:26 UTC] PHP Warning:  include_once(../include/modif_user_admin.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[30-May-2024 11:17:26 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_user_admin.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[31-May-2024 07:41:49 UTC] PHP Parse error:  Unclosed '{' on line 21 in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 89
+[31-May-2024 08:06:17 UTC] PHP Warning:  Undefined array key "date" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 24
+[31-May-2024 08:06:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '' for column 'Date' at row 1 in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php:24
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(24): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 24
+[31-May-2024 08:06:54 UTC] PHP Warning:  Undefined array key "date" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 24
+[31-May-2024 08:06:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '' for column 'Date' at row 1 in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php:24
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(24): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 24
+[31-May-2024 10:11:23 Europe/Paris] PHP Warning:  Undefined array key "Question" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 66
+[31-May-2024 10:11:23 Europe/Paris] PHP Warning:  Undefined array key "Reponse-1" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 66
+[31-May-2024 10:11:23 Europe/Paris] PHP Warning:  Undefined array key "Reponse-2" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 66
+[31-May-2024 10:11:23 Europe/Paris] PHP Warning:  Undefined array key "Reponse-3" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 66
+[31-May-2024 10:11:23 Europe/Paris] PHP Warning:  Undefined array key "Reponse-4" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 66
+[31-May-2024 10:11:23 Europe/Paris] PHP Warning:  Undefined array key "Reponse" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 66
+[31-May-2024 10:11:23 Europe/Paris] PHP Warning:  Undefined array key "id_question" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 66
+[31-May-2024 08:12:51 UTC] PHP Warning:  include_once(../include/modif_question.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 42
+[31-May-2024 08:12:51 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_question.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 42
+[31-May-2024 08:12:51 UTC] PHP Warning:  Undefined array key "Question" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 66
+[31-May-2024 08:12:51 UTC] PHP Warning:  Undefined array key "Reponse-1" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 66
+[31-May-2024 08:12:51 UTC] PHP Warning:  Undefined array key "Reponse-2" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 66
+[31-May-2024 08:12:51 UTC] PHP Warning:  Undefined array key "Reponse-3" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 66
+[31-May-2024 08:12:51 UTC] PHP Warning:  Undefined array key "Reponse-4" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 66
+[31-May-2024 08:12:51 UTC] PHP Warning:  Undefined array key "Reponse" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 66
+[31-May-2024 08:12:51 UTC] PHP Warning:  Undefined array key "id_question" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 66
+[31-May-2024 08:13:21 UTC] PHP Parse error:  Unmatched '}' in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/insert_question.php on line 19
+[31-May-2024 08:14:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Quizz')' at line 1 in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/insert_question.php:2
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/insert_question.php(2): mysqli_query()
+#1 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(77): include_once('/home/raphaelko...')
+#2 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/insert_question.php on line 2
+[31-May-2024 08:14:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Quizz')' at line 1 in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/insert_question.php:2
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/insert_question.php(2): mysqli_query()
+#1 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(77): include_once('/home/raphaelko...')
+#2 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/insert_question.php on line 2
+[31-May-2024 08:14:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Quizz')' at line 1 in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/insert_question.php:2
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/insert_question.php(2): mysqli_query()
+#1 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(77): include_once('/home/raphaelko...')
+#2 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/insert_question.php on line 2
+[31-May-2024 08:20:02 UTC] PHP Warning:  include_once(../include/modif_quizz.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 39
+[31-May-2024 08:20:02 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_quizz.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 39
+[31-May-2024 08:20:08 UTC] PHP Warning:  include_once(../include/modif_user_admin.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[31-May-2024 08:20:08 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_user_admin.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[31-May-2024 08:20:16 UTC] PHP Warning:  include_once(../include/modif_user_admin.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[31-May-2024 08:20:16 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_user_admin.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[31-May-2024 08:20:23 UTC] PHP Warning:  include_once(../include/insert_post.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 62
+[31-May-2024 08:20:23 UTC] PHP Warning:  include_once(): Failed opening '../include/insert_post.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 62
+[31-May-2024 08:21:14 UTC] PHP Warning:  include_once(../include/modif_quizz.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 39
+[31-May-2024 08:21:14 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_quizz.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 39
+[31-May-2024 08:30:30 UTC] PHP Warning:  include_once(../include/modif_quizz.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 39
+[31-May-2024 08:30:30 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_quizz.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 39
+[31-May-2024 08:36:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-1	,Reponse-2,Reponse-3,Reponse-4,Reponse) VALUES ('Quelle est le % de déchet d' at line 1 in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php:28
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(28): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 28
+[31-May-2024 08:38:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Reponse-1','Reponse-2','Reponse-3','Reponse-4',Reponse) VALUES ('Quelle est le ' at line 1 in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php:28
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(28): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 28
+[31-May-2024 08:39:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Reponse1','Reponse2','Reponse3','Reponse4',Reponse) VALUES ('Quelle est le % de' at line 1 in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php:28
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(28): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 28
+[31-May-2024 08:42:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'id_quizz' doesn't have a default value in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php:28
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(28): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 28
+[31-May-2024 08:45:12 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/insert_question.php on line 19
+[31-May-2024 08:45:21 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/insert_question.php on line 19
+[31-May-2024 08:45:22 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/insert_question.php on line 19
+[31-May-2024 08:45:28 UTC] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/insert_question.php on line 19
+[31-May-2024 08:47:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'id_quizz' doesn't have a default value in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php:28
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(28): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 28
+[31-May-2024 08:48:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'id_quizz' doesn't have a default value in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php:28
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(28): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 28
+[31-May-2024 08:50:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' at line 1 in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php:28
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(28): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 28
+[31-May-2024 08:51:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' at line 1 in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php:29
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(29): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 29
+[31-May-2024 08:51:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' at line 1 in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php:29
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(29): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 29
+[31-May-2024 08:53:34 UTC] PHP Warning:  Undefined array key "Reponse-1" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 70
+[31-May-2024 08:53:34 UTC] PHP Warning:  Undefined array key "Reponse-2" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 70
+[31-May-2024 08:53:34 UTC] PHP Warning:  Undefined array key "Reponse-3" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 70
+[31-May-2024 08:53:34 UTC] PHP Warning:  Undefined array key "Reponse-4" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 70
+[31-May-2024 08:56:39 UTC] PHP Warning:  include_once(../include/insert_post.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 62
+[31-May-2024 08:56:39 UTC] PHP Warning:  include_once(): Failed opening '../include/insert_post.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 62
+[31-May-2024 09:31:35 UTC] PHP Warning:  include_once(../include/modif_question.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 46
+[31-May-2024 09:31:35 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_question.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 46
+[31-May-2024 09:31:36 UTC] PHP Warning:  include_once(../include/modif_quizz.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 43
+[31-May-2024 09:31:36 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_quizz.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 43
+[31-May-2024 09:31:39 UTC] PHP Warning:  include_once(../include/insert_post.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 62
+[31-May-2024 09:31:39 UTC] PHP Warning:  include_once(): Failed opening '../include/insert_post.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 62
+[31-May-2024 09:31:42 UTC] PHP Warning:  include_once(../include/modif_quizz.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 43
+[31-May-2024 09:31:42 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_quizz.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 43
+[31-May-2024 09:32:06 UTC] PHP Warning:  include_once(../include/modif_user_admin.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[31-May-2024 09:32:06 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_user_admin.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[31-May-2024 09:35:25 UTC] PHP Warning:  include_once(../include/modif_quizz.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 43
+[31-May-2024 09:35:25 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_quizz.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 43
+[31-May-2024 09:42:25 UTC] PHP Parse error:  Unclosed '{' on line 5 in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/modif_quizz.php on line 24
+[31-May-2024 09:42:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'raphaelkondratiu_sinai.Qizz' doesn't exist in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/modif_quizz.php:4
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/modif_quizz.php(4): mysqli_query()
+#1 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(43): include_once('/home/raphaelko...')
+#2 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/modif_quizz.php on line 4
+[31-May-2024 09:43:02 UTC] PHP Warning:  Undefined array key "Text" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/modif_quizz.php on line 14
+[31-May-2024 10:10:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`raphaelkondratiu_sinai`.`Question`, CONSTRAINT `Question_ibfk_1` FOREIGN KEY (`id_quizz`) REFERENCES `Quizz` (`id_quizz`)) in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php:33
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(33): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 33
+[31-May-2024 10:11:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`raphaelkondratiu_sinai`.`Question`, CONSTRAINT `Question_ibfk_1` FOREIGN KEY (`id_quizz`) REFERENCES `Quizz` (`id_quizz`)) in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php:33
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(33): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 33
+[31-May-2024 10:15:16 UTC] PHP Warning:  Undefined array key "Nom" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/modif_question.php on line 13
+[31-May-2024 10:15:16 UTC] PHP Warning:  Undefined array key "text" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/modif_question.php on line 14
+[31-May-2024 10:15:16 UTC] PHP Warning:  Undefined array key "Date" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/include/modif_question.php on line 15
+[31-May-2024 10:27:37 UTC] PHP Warning:  Undefined array key "reponse" in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 50
+[31-May-2024 10:27:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column 'Reponse' at row 1 in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php:50
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(50): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 50
+[31-May-2024 10:34:09 UTC] PHP Warning:  include_once(../include/insert_post.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 62
+[31-May-2024 10:34:09 UTC] PHP Warning:  include_once(): Failed opening '../include/insert_post.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 62
+[31-May-2024 10:34:11 UTC] PHP Warning:  include_once(../include/insert_post.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 62
+[31-May-2024 10:34:11 UTC] PHP Warning:  include_once(): Failed opening '../include/insert_post.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 62
+[31-May-2024 14:33:21 UTC] PHP Warning:  include_once(../include/modif_user_admin.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[31-May-2024 14:33:21 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_user_admin.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[31-May-2024 14:33:23 UTC] PHP Warning:  include_once(../include/modif_user_admin.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[31-May-2024 14:33:23 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_user_admin.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[31-May-2024 14:33:26 UTC] PHP Warning:  include_once(../include/modif_user_admin.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[31-May-2024 14:33:26 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_user_admin.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[05-Jun-2024 07:41:32 UTC] PHP Warning:  include_once(../include/modif_user_admin.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[05-Jun-2024 07:41:32 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_user_admin.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[07-Jun-2024 21:40:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'raphaelkondratiu_sinai.Post' doesn't exist in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php:42
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php(42): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 42
+[07-Jun-2024 21:40:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'raphaelkondratiu_sinai.Post' doesn't exist in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php:42
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php(42): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 42
+[07-Jun-2024 21:40:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'raphaelkondratiu_sinai.Post' doesn't exist in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php:42
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php(42): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 42
+[07-Jun-2024 21:40:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'raphaelkondratiu_sinai.Post' doesn't exist in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php:42
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php(42): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 42
+[07-Jun-2024 21:40:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'raphaelkondratiu_sinai.Post' doesn't exist in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php:42
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php(42): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 42
+[07-Jun-2024 21:41:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'raphaelkondratiu_sinai.Post' doesn't exist in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php:42
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php(42): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/post.php on line 42
+[07-Jun-2024 21:41:09 UTC] PHP Warning:  include_once(../include/modif_user_admin.php): Failed to open stream: No such file or directory in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[07-Jun-2024 21:41:09 UTC] PHP Warning:  include_once(): Failed opening '../include/modif_user_admin.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/user.php on line 45
+[07-Jun-2024 21:46:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`raphaelkondratiu_sinai`.`Question`, CONSTRAINT `Question_ibfk_1` FOREIGN KEY (`id_quizz`) REFERENCES `Quizz` (`id_quizz`)) in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php:33
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(33): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 33
+[07-Jun-2024 21:46:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`raphaelkondratiu_sinai`.`Question`, CONSTRAINT `Question_ibfk_1` FOREIGN KEY (`id_quizz`) REFERENCES `Quizz` (`id_quizz`)) in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php:33
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(33): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 33
+[09-Jun-2024 14:01:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'raphaelkondratiu_sinai.Quizz ORDER by Date' doesn't exist in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/index.php:31
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/index.php(31): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/index.php on line 31
+[10-Jun-2024 21:55:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'il faut dire lors d'une soutenance?', 'Une soutenance aussi peut produire son lo' at line 1 in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php:24
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(24): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 24
+[10-Jun-2024 22:03:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'une soutenance', 'C est comme que quand tu pars genre en voyage','A l'instar de ' at line 1 in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php:29
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(29): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 29
+[10-Jun-2024 22:03:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'une soutenance', 'C est comme que quand tu pars genre en voyage','A l instar de ' at line 1 in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php:29
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(29): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 29
+[10-Jun-2024 22:04:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'une soutenance', 'C est comme que quand tu pars genre en voyage','A l instar de ' at line 1 in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php:29
+Stack trace:
+#0 /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php(29): mysqli_query()
+#1 {main}
+  thrown in /home/raphaelkondratiu/sinai.raphael.kondratiuk.mmi-velizy.fr/SAE202/admin/quizz.php on line 29
