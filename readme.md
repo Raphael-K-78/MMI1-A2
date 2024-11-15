@@ -30,6 +30,7 @@ Pour chaque projet, vous trouverez une description complète et un fichier READM
 
 - **HTML/CSS**
 - **JavaScript**
+- **JQuery/JqueryUI**
 - **PHP**
 - **SQL**
 
