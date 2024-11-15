@@ -21,7 +21,8 @@ Voici la liste des projets présents dans ce dépôt :
 2. **[Projet Jeu JavaScript](https://github.com/Raphael-K-78/MMI1-A2/tree/main/catsrun)** - Création d'un jeu pour pratiquer le JavaScript.
 3. **[Projet Club](https://github.com/Raphael-K-78/MMI1-A2/tree/main/sommeil)** - Développement d’une page web simple avec du PHP procédural pour la gestion d'un club de Sommeil.
 4. **[Projet SportCar](https://github.com/Raphael-K-78/MMI1-A2/tree/main/sportcar)** - Développement d'un site web avec du PHP procédural pour la location de voiture avec un backoffice.
-5. **Projet Sinaï** - Création d'un site web d'agence de communication et d'un site web pour une campagne de sensibilisation au trie des déchets.
+5. **[Projet Sinaï](https://github.com/Raphael-K-78/MMI1-A2/tree/main/Sinai)** - Création d'un site web d'agence de communication pour le projet de Campagne de communication
+6. **[Projet Cmpagne](https://github.com/Raphael-K-78/MMI1-A2/tree/main/Campagne)** - Réalisation du site d'une Campagne de communication sur le trie des déchets
 
 Pour chaque projet, vous trouverez une description complète et un fichier README spécifique, expliquant les fonctionnalités et les étapes de réalisation.
 
